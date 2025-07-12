@@ -7,5 +7,4 @@
 - 🧠 Power user of GitHub Copilot, ChatGPT, and modern dev workflows
 - ☁️ Experience deploying to Vercel, Render, AWS
 
-📫 Let’s connect!  
-[LinkedIn](https://www.linkedin.com/in/narsing0405) | [Portfolio](https://your-portfolio-site.com)
+
